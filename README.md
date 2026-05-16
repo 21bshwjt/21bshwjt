@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://avatars.githubusercontent.com/u/42672713?v=4" width="120" style="border-radius: 50%;" alt="Biswajit Biswas"/>
+<img src="https://github.com/21bshwjt.png" width="120" style="border-radius: 50%;" alt="Biswajit Biswas"/>
 
 ### Biswajit Biswas
 **Identity & Access Management | DevOps | Security Engineer**
