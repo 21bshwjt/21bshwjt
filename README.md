@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Biswajit+Biswas;IAM+%26+Security+Engineer;Active+Directory+%7C+Entra+ID+%7C+PAM+%7C+PKI;PowerShell+%7C+Microsoft+Graph+%7C+DevSecOps" alt="Typing SVG" />
@@ -42,12 +41,12 @@
 
 ## 🚀 Current Focus
 
-- Microsoft Entra ID Security & Governance
-- Conditional Access & Identity Protection
-- Microsoft Graph API Automation
-- Hybrid Identity Hardening
-- PowerShell Reporting Frameworks
-- Zero Trust Security Architecture
+- 🔵 Microsoft Entra ID Security & Governance
+- 🔵 Conditional Access & Identity Protection
+- 🔵 Microsoft Graph API Automation
+- 🔵 Hybrid Identity Hardening
+- 🔵 PowerShell Reporting Frameworks
+- 🔵 Zero Trust Security Architecture
 
 ---
 
@@ -59,14 +58,12 @@
 
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Privileged Access Management](https://img.shields.io/badge/Privileged_Access_Management-DC2626?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![PAM](https://img.shields.io/badge/Privileged_Access_Management-DC2626?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Identity Governance](https://img.shields.io/badge/Identity_Governance-059669?style=for-the-badge&logo=microsoft&logoColor=white)
 ![PKI](https://img.shields.io/badge/PKI_Certificate_Services-6D28D9?style=for-the-badge&logo=letsencrypt&logoColor=white)
-![Zero Trust](https://img.shields.io/badge/Zero_Trust_Security-DC2626?style=for-the-badge&logo=microsoftsecurity&logoColor=white)
+![Zero Trust](https://img.shields.io/badge/Zero_Trust_Security-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 </div>
-
----
 
 ### ☁️ Cloud & Microsoft 365
 
@@ -80,8 +77,6 @@
 
 </div>
 
----
-
 ### 💻 Languages & Automation
 
 <div align="center">
@@ -92,8 +87,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 </div>
-
----
 
 ### 🔧 Tools & Infrastructure
 
@@ -110,14 +103,14 @@
 
 ## 🔎 Security & Assessment Areas
 
-- Entra ID Security Assessments
-- Conditional Access Gap Analysis
-- High-Risk OAuth Permission Discovery
-- Service Principal Security Reviews
-- Tenant Hardening & Security Baselines
-- CIS Benchmark Reporting
-- Identity Governance & Privileged Access Reviews
-- Hybrid Identity Security Monitoring
+| Area | Details |
+|---|---|
+| 🆔 Entra ID Security Assessments | Security posture reviews for Microsoft Entra ID tenants |
+| 🔒 Conditional Access Gap Analysis | Policy coverage review & hardening recommendations |
+| 🔑 Privileged Access Reviews | JIT / JEA / PAM design and access reviews |
+| 📋 Service Principal Security | OAuth permission discovery & SP risk assessment |
+| 🛡️ Tenant Hardening & Baselines | CIS Benchmark reporting & security baseline enforcement |
+| 📡 Hybrid Identity Monitoring | AD Connect health, sync, and security monitoring |
 
 ---
 
@@ -125,12 +118,12 @@
 
 | Repository | Description | Tech |
 |---|---|---|
-| [🖥️ ActiveDirectory_Replication_Monitoring](https://github.com/21bshwjt/ActiveDirectory_Replication_Monitoring) | Active Directory Replication Monitoring with HTML Email Alerts | PowerShell |
-| [🔍 XDomainControllers-Events](https://github.com/21bshwjt/XDomainControllers-Events) | Detection of Weak Ciphers & Legacy Authentication Protocols | PowerShell |
-| [🏗️ Build_Replica_DomainController](https://github.com/21bshwjt/Build_Replica_DomainController) | Automated Replica Domain Controller Deployment with PowerShell | PowerShell |
-| [📡 MicrosoftGraph](https://github.com/21bshwjt/MicrosoftGraph) | Microsoft Graph API Automation & Reporting Scripts | PowerShell |
-| [⚙️ AzAutomationRunbooks](https://github.com/21bshwjt/AzAutomationRunbooks) | Azure Automation Runbooks & Cloud Automation | PowerShell / Azure |
-| [🔑 entra-hybrid-identity-toolkit](https://github.com/21bshwjt/entra-hybrid-identity-toolkit) | Entra Hybrid Identity Administration Toolkit | PowerShell / Entra ID |
+| [🖥️ ActiveDirectory_Replication_Monitoring](https://github.com/21bshwjt/ActiveDirectory_Replication_Monitoring) | Active Directory Replication Monitoring with HTML Email Alerts | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
+| [🔍 XDomainControllers-Events](https://github.com/21bshwjt/XDomainControllers-Events) | Detection of Weak Ciphers & Legacy Authentication Protocols | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
+| [🏗️ Build_Replica_DomainController](https://github.com/21bshwjt/Build_Replica_DomainController) | Automated Replica Domain Controller Deployment | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
+| [📡 MicrosoftGraph](https://github.com/21bshwjt/MicrosoftGraph) | Microsoft Graph API Automation & Reporting Scripts | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
+| [⚙️ AzAutomationRunbooks](https://github.com/21bshwjt/AzAutomationRunbooks) | Azure Automation Runbooks & Cloud Automation | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
+| [🔑 entra-hybrid-identity-toolkit](https://github.com/21bshwjt/entra-hybrid-identity-toolkit) | Entra Hybrid Identity Administration Toolkit | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Entra](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
 
 ---
 
@@ -143,8 +136,6 @@
 <img src="https://streak-stats.demolab.com?user=21bshwjt&theme=tokyonight&hide_border=true" width="49%" />
 
 </div>
-
----
 
 <div align="center">
 
@@ -176,24 +167,14 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=21bshwjt&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>
+<img src="https://komarev.com/ghpvc/?username=21bshwjt&label=Profile%20Views&color=0078D4&style=flat" />
 
 ---
 
-<div align="center">
-
-### ✍️ Security Philosophy
-
-*"Security is not a product, but a process."*  
-— Bruce Schneier
+*"Security is not a product, but a process."* — Bruce Schneier
 
 <br/>
 
-⭐ From [Biswajit Biswas](https://github.com/21bshwjt)
-
-🔐 IAM & Security Engineer | ☁️ Microsoft Security | 🛡️ Identity Protection
+⭐ From [Biswajit Biswas](https://github.com/21bshwjt) · 🔐 IAM & Security Engineer · ☁️ Microsoft Security · 🛡️ Identity Protection
 
 </div>
-```
