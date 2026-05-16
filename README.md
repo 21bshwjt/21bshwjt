@@ -118,23 +118,14 @@
 
 | Repository | Description | Tech |
 |---|---|---|
-| [🖥️ ActiveDirectory_Replication_Monitoring](https://github.com/21bshwjt/ActiveDirectory_Replication_Monitoring) | Active Directory Replication Monitoring with HTML Email Alerts | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
-| [🔍 XDomainControllers-Events](https://github.com/21bshwjt/XDomainControllers-Events) | Detection of Weak Ciphers & Legacy Authentication Protocols | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
-| [🏗️ Build_Replica_DomainController](https://github.com/21bshwjt/Build_Replica_DomainController) | Automated Replica Domain Controller Deployment | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
-| [📡 MicrosoftGraph](https://github.com/21bshwjt/MicrosoftGraph) | Microsoft Graph API Automation & Reporting Scripts | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
-| [⚙️ AzAutomationRunbooks](https://github.com/21bshwjt/AzAutomationRunbooks) | Azure Automation Runbooks & Cloud Automation | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
-| [🔑 entra-hybrid-identity-toolkit](https://github.com/21bshwjt/entra-hybrid-identity-toolkit) | Entra Hybrid Identity Administration Toolkit | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Entra](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
+| [🖥️ ActiveDirectory Replication Monitoring](https://github.com/21bshwjt/ActiveDirectory_Replication_Monitoring) | Active Directory Replication Monitoring with HTML Email Alerts | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
+| [🔍 DomainControllers Events](https://github.com/21bshwjt/XDomainControllers-Events) | Detection of Weak Ciphers & Legacy Authentication Protocols | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
+| [🏗️ Build Replica DomainController](https://github.com/21bshwjt/Build_Replica_DomainController) | Automated Replica Domain Controller Deployment | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
+| [📡 Microsoft Graph API](https://github.com/21bshwjt/MicrosoftGraph) | Microsoft Graph API Automation & Reporting Scripts | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
+| [⚙️ Az AutomationRunbooks](https://github.com/21bshwjt/AzAutomationRunbooks) | Azure Automation Runbooks & Cloud Automation | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
+| [🔑 Entra Hybrid Identity Toolkit](https://github.com/21bshwjt/entra-hybrid-identity-toolkit) | Entra Hybrid Identity Administration Toolkit | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Entra](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
 | [🖥️ SysVol D4 - PowerShell](https://github.com/21bshwjt/SysVol-D4-PowerShell) | SysVol-D4-PowerShell | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![GPO](https://img.shields.io/badge/GPO-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
 
----
-
-
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21bshwjt&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="49%" />
-
-</div>
 ---
 
 *"Security is not a product, but a process."* — Bruce Schneier
