@@ -118,7 +118,7 @@
 
 | Repository | Description | Tech |
 |---|---|---|
-| [🖥️ ActiveDirectory Replication Monitoring](https://github.com/21bshwjt/ActiveDirectory_Replication_Monitoring) | Active Directory Replication Monitoring with HTML Email Alerts | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
+| [🖥️ AD Replication Monitoring](https://github.com/21bshwjt/ActiveDirectory_Replication_Monitoring) | Active Directory Replication Monitoring with HTML Email Alerts | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
 | [🔍 DomainControllers Events](https://github.com/21bshwjt/XDomainControllers-Events) | Detection of Weak Ciphers & Legacy Authentication Protocols | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
 | [🏗️ Build Replica DomainController](https://github.com/21bshwjt/Build_Replica_DomainController) | Automated Replica Domain Controller Deployment | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
 | [📡 Microsoft Graph API](https://github.com/21bshwjt/MicrosoftGraph) | Microsoft Graph API Automation & Reporting Scripts | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
