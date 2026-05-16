@@ -124,7 +124,7 @@
 | [📡 MicrosoftGraph](https://github.com/21bshwjt/MicrosoftGraph) | Microsoft Graph API Automation & Reporting Scripts | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
 | [⚙️ AzAutomationRunbooks](https://github.com/21bshwjt/AzAutomationRunbooks) | Azure Automation Runbooks & Cloud Automation | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
 | [🔑 entra-hybrid-identity-toolkit](https://github.com/21bshwjt/entra-hybrid-identity-toolkit) | Entra Hybrid Identity Administration Toolkit | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Entra](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
-| [🖥️ SysVol D4 - PowerShell](https://github.com/21bshwjt/SysVol-D4-PowerShell) | SysVol-D4-PowerShell | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![GPO](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
+| [🖥️ SysVol D4 - PowerShell](https://github.com/21bshwjt/SysVol-D4-PowerShell) | SysVol-D4-PowerShell | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![GPO](https://img.shields.io/badge/GPO-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
 
 ---
 
