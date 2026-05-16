@@ -125,11 +125,7 @@
 | [⚙️ AzAutomationRunbooks](https://github.com/21bshwjt/AzAutomationRunbooks) | Azure Automation Runbooks & Cloud Automation | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
 | [🔑 entra-hybrid-identity-toolkit](https://github.com/21bshwjt/entra-hybrid-identity-toolkit) | Entra Hybrid Identity Administration Toolkit | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Entra](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
 
----
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=21bshwjt&label=Profile%20Views&color=0078D4&style=flat" />
 
 ---
 
