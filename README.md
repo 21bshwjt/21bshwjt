@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Biswajit+Biswas;IAM+%26+Security+Engineer;Active+Directory+%7C+Entra+ID+%7C+PostureMgmt+%7C+PKI;PowerShell+%7C+Microsoft+Graph+%7C+DevSecOps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Biswajit+Biswas;IAM+%26+Security+Engineer;Active+Directory+%7C+Entra+ID+%7C+Microsoft+365+Security;Endpoint+Security+%7C+Okta+%7C+Microsoft+PKI;Graph+APIs+%7C+PowerShell+%7C+Automations" alt="Typing SVG" />
 
 <br/>
 
