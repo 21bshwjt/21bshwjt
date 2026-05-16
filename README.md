@@ -127,24 +127,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=21bshwjt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
-
-<img src="https://streak-stats.demolab.com?user=21bshwjt&theme=tokyonight&hide_border=true" width="49%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21bshwjt&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="49%" />
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=21bshwjt&label=Profile%20Views&color=0078D4&style=flat" />
