@@ -47,10 +47,10 @@
 
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![PAM](https://img.shields.io/badge/PAM-Privileged_Access-DC2626?style=for-the-badge&logo=shield&logoColor=white)
-![PKI](https://img.shields.io/badge/PKI-Certificate_Services-6D28D9?style=for-the-badge&logo=letsencrypt&logoColor=white)
-![IGA](https://img.shields.io/badge/IGA-Identity_Governance-059669?style=for-the-badge&logo=keybase&logoColor=white)
-![Zero Trust](https://img.shields.io/badge/Zero_Trust-Security-DC2626?style=for-the-badge&logo=cloudflare&logoColor=white)
+![PAM](https://img.shields.io/badge/Privileged_Access_Mgmt-DC2626?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![PKI](https://img.shields.io/badge/PKI_Certificate_Services-6D28D9?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![IGA](https://img.shields.io/badge/Identity_Governance-059669?style=for-the-badge&logo=microsoft&logoColor=white)
+![Zero Trust](https://img.shields.io/badge/Zero_Trust_Security-DC2626?style=for-the-badge&logo=microsoftsecurity&logoColor=white)
 
 </div>
 
@@ -81,7 +81,7 @@
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -117,18 +117,14 @@
 
 ## 📌 Featured Projects
 
-<div align="center">
-
-[![AD Replication Monitor](https://github-readme-stats.vercel.app/api/pin/?username=21bshwjt&repo=ActiveDirectory_Replication_Monitoring&theme=tokyonight&hide_border=true)](https://github.com/21bshwjt/ActiveDirectory_Replication_Monitoring)
-[![XDomainControllers Events](https://github-readme-stats.vercel.app/api/pin/?username=21bshwjt&repo=XDomainControllers-Events&theme=tokyonight&hide_border=true)](https://github.com/21bshwjt/XDomainControllers-Events)
-
-[![Build Replica DC](https://github-readme-stats.vercel.app/api/pin/?username=21bshwjt&repo=Build_Replica_DomainController&theme=tokyonight&hide_border=true)](https://github.com/21bshwjt/Build_Replica_DomainController)
-[![Microsoft Graph](https://github-readme-stats.vercel.app/api/pin/?username=21bshwjt&repo=MicrosoftGraph&theme=tokyonight&hide_border=true)](https://github.com/21bshwjt/MicrosoftGraph)
-
-[![Azure Automation Runbooks](https://github-readme-stats.vercel.app/api/pin/?username=21bshwjt&repo=AzAutomationRunbooks&theme=tokyonight&hide_border=true)](https://github.com/21bshwjt/AzAutomationRunbooks)
-[![Entra Hybrid Identity](https://github-readme-stats.vercel.app/api/pin/?username=21bshwjt&repo=entra-hybrid-identity-toolkit&theme=tokyonight&hide_border=true)](https://github.com/21bshwjt/entra-hybrid-identity-toolkit)
-
-</div>
+| 🗂️ Repository | 📝 Description | 🔧 Tech |
+|---|---|---|
+| [🖥️ ActiveDirectory_Replication_Monitoring](https://github.com/21bshwjt/ActiveDirectory_Replication_Monitoring) | AD Replication Monitoring with HTML Email Alerts | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
+| [🔍 XDomainControllers-Events](https://github.com/21bshwjt/XDomainControllers-Events) | Hunt Weaker Cipher & Authentication Protocols | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
+| [🏗️ Build_Replica_DomainController](https://github.com/21bshwjt/Build_Replica_DomainController) | Build Replica Domain Controller via PowerShell | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
+| [📡 MicrosoftGraph](https://github.com/21bshwjt/MicrosoftGraph) | Microsoft Graph API scripts & automation | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
+| [⚙️ AzAutomationRunbooks](https://github.com/21bshwjt/AzAutomationRunbooks) | Azure Automation Runbooks with PowerShell | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
+| [🔑 entra-hybrid-identity-toolkit](https://github.com/21bshwjt/entra-hybrid-identity-toolkit) | Entra Hybrid Identity — User Administration | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Entra](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
 
 ---
 
@@ -159,4 +155,3 @@
 ⭐️ From [Biswajit Biswas](https://github.com/21bshwjt) | 🔐 IAM & Security Engineer | 📍 Kolkata, India
 
 </div>
-
