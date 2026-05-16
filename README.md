@@ -41,12 +41,14 @@
 
 ## 🚀 Current Focus
 
+- 🔵 Microsoft 365 & AD Posture Management Dashboard
 - 🔵 Microsoft Entra ID Security & Governance
 - 🔵 Conditional Access & Identity Protection
 - 🔵 Microsoft Graph API Automation
 - 🔵 Hybrid Identity Hardening
 - 🔵 PowerShell Reporting Frameworks
 - 🔵 Zero Trust Security Architecture
+- 🔵 Okta Posture Management Dashboard
 
 ---
 
