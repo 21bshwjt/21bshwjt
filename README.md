@@ -8,7 +8,7 @@
 
 # Biswajit Biswas
 
-### Cyber Security Engineer | Identity & Access Management | Automation Enthusiast
+### Identity & Access Management | Security Engineer | Automation Enthusiast
 
 *IAM & Security Engineer @ Cyderes · Kolkata, India 🇮🇳*
 
@@ -125,7 +125,49 @@
 | [⚙️ AzAutomationRunbooks](https://github.com/21bshwjt/AzAutomationRunbooks) | Azure Automation Runbooks & Cloud Automation | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
 | [🔑 entra-hybrid-identity-toolkit](https://github.com/21bshwjt/entra-hybrid-identity-toolkit) | Entra Hybrid Identity Administration Toolkit | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Entra](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
 
+---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=21bshwjt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+
+<img src="https://streak-stats.demolab.com?user=21bshwjt&theme=tokyonight&hide_border=true" width="49%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21bshwjt&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="49%" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=21bshwjt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=21bshwjt&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=21bshwjt&label=Profile%20Views&color=0078D4&style=flat" />
 
 ---
 
