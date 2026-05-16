@@ -8,7 +8,7 @@
 
 # Biswajit Biswas
 
-### Identity & Access Management | Security Engineer | Automation Enthusiast
+###  Security Engineer | Identity & Access Management | Automation Enthusiast
 
 *IAM & Security Engineer @ Cyderes · Kolkata, India 🇮🇳*
 
@@ -142,33 +142,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21bshwjt&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="49%" />
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=21bshwjt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=21bshwjt&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=21bshwjt&label=Profile%20Views&color=0078D4&style=flat" />
-
 ---
 
 *"Security is not a product, but a process."* — Bruce Schneier
