@@ -4,8 +4,6 @@
 
 <br/>
 
-<img src="https://github.com/21bshwjt.png" width="120" alt="Biswajit Biswas"/>
-
 # Biswajit Biswas
 
 ###  Cyber Security Engineer | Identity & Access Management | Automation Enthusiast
