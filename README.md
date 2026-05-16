@@ -8,7 +8,7 @@
 
 # Biswajit Biswas
 
-### Identity & Access Management | Security Engineer | Automation Enthusiast
+### Cyber Security Engineer | Identity & Access Management | Automation Enthusiast
 
 *IAM & Security Engineer @ Cyderes · Kolkata, India 🇮🇳*
 
