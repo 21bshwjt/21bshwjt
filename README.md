@@ -105,7 +105,7 @@
 
 | Area | Details |
 |---|---|
-| 🆔 Entra ID Security Assessments | Security posture reviews for Microsoft Entra ID tenants |
+| 🆔 Microsoft 365 Security Assessments | Security posture reviews for Microsoft Entra ID tenants |
 | 🔒 Conditional Access Gap Analysis | Policy coverage review & hardening recommendations |
 | 🔑 Privileged Access Reviews | JIT / JEA / PAM design and access reviews |
 | 📋 Service Principal Security | OAuth permission discovery & SP risk assessment |
