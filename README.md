@@ -8,7 +8,7 @@
 
 ###  Cyber Security Engineer | Identity & Access Management | Automation Enthusiast
 
-*IAM & Security Engineer · Kolkata, India 🇮🇳*
+*IAM & Security Engineer · India 🇮🇳*
 
 </div>
 
