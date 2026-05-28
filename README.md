@@ -6,7 +6,7 @@
 
 # Biswajit Biswas
 
-###  Cyber Security Engineer | Identity & Access Management | Automation Enthusiast
+###  Cyber Security Architect | Identity & Access Management | Automation Enthusiast
 
 *IAM & Security Engineer · India 🇮🇳*
 
