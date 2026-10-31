@@ -26,7 +26,7 @@ With **20+ years** in enterprise identity and security, I help organizations red
 | **Scale** | ~600,000-user Microsoft 365 tenant · Hybrid identity |
 | **Core Domains** | IAM · PAM / Entra PIM · IGA · Guest (B2B) & Workload Identity Security · PKI · Hybrid Identity · Microsoft 365 Security |
 | **Platforms** | Active Directory · Microsoft Entra ID · Okta · Azure · Microsoft 365 |
-| **Frameworks** | Zero Trust · Microsoft Enterprise Access Model (Tiering) · CIS Benchmarks · MITRE ATT&CK |
+| **Frameworks** | Zero Trust · Microsoft Enterprise Access Model (Tiering) · CIS Benchmarks |
 | **Automation** | PowerShell · Microsoft Graph API · Azure Automation · Key Vault |
 
 ---
@@ -84,6 +84,7 @@ Turn manual checks into automated, repeatable reporting with PowerShell and Grap
 | [⚙️ Az AutomationRunbooks](https://github.com/21bshwjt/AzAutomationRunbooks) | Secure, scheduled cloud automation with Azure Automation runbooks | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
 | [🏗️ Build Replica DomainController](https://github.com/21bshwjt/Build_Replica_DomainController) | Consistent, automated replica DC deployment — reduces configuration drift | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
 | [🖥️ SysVol D4 - PowerShell](https://github.com/21bshwjt/SysVol-D4-PowerShell) | Automates authoritative (D4) SYSVOL restore for DFSR recovery & GPO integrity | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![GPO](https://img.shields.io/badge/GPO-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
+| [🎫 Atlassian Jira Automation](https://github.com/21bshwjt/Atlassian_Jira_Automation) | Jira Cloud REST API automation — API token validation, bulk issue updates & Excel reporting, following secure API-token practices | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) |
 
 ---
 
@@ -121,6 +122,7 @@ Turn manual checks into automated, repeatable reporting with PowerShell and Grap
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
