@@ -24,7 +24,7 @@ With **20+ years** in enterprise identity and security, I help organizations red
 | **Role** | Cyber Security Architect — Identity & Access Management |
 | **Experience** | **20+ years** in enterprise identity, infrastructure & security |
 | **Scale** | ~600,000-user Microsoft 365 tenant · Hybrid identity |
-| **Core Domains** | IAM · PAM / Entra PIM · IGA · Guest (B2B) & Workload Identity Security · PKI · Hybrid Identity · Microsoft 365 Security |
+| **Core Domains** | IAM · On-Prem Active Directory · Hybrid Identity · PAM / Entra PIM · IGA · Guest (B2B) & Workload Identity Security · Microsoft PKI · CyberArk Cloud PKI · Microsoft Graph APIs · Microsoft 365 Security |
 | **Platforms** | Active Directory · Microsoft Entra ID · Okta · Azure · Microsoft 365 |
 | **Frameworks** | Zero Trust · Microsoft Enterprise Access Model (Tiering) · CIS Benchmarks |
 | **Automation** | PowerShell · Microsoft Graph API · Azure Automation · Key Vault |
