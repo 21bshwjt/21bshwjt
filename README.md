@@ -6,7 +6,7 @@
 
 ### 🛡️ Cyber Security Architect · Identity & Access Management · Security Automation
 
-**Identity is the new perimeter — I design, harden, and automate it.**
+**Identity is the new perimeter - I design, harden, and automate it.**
 With **20+ years** in enterprise identity and security, I help organizations reduce identity-driven risk across hybrid Active Directory, Microsoft Entra ID, and Okta, and turn security posture into measurable, automated controls.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bshwjt/)
