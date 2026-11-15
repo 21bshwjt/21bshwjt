@@ -36,6 +36,8 @@ With **20+ years** in enterprise identity and security, I help organizations red
 |---|---|---|
 | 🔀 **Divestiture Tenant Separation** | Designed a wave-based migration framework. Automated app onboarding with Graph API & PowerShell | **500+ SaaS apps (SAML / OIDC)** and **45,000+ users** moved to a new Entra ID tenant **ahead of the TSA deadline**, with **zero business disruption** |
 | 📊 **M365 Identity Posture Management** | Built **400+ automated security checks**, mapped to CIS ([coverage](#-microsoft-365-identity-posture-management)) | Tenant reviews that were slow and manual now run **on demand**. Misconfigurations and over-privilege are found **before an incident** |
+| 🏰 **On-Prem AD Security Posture (ISPM)** | Automated Active Directory posture assessments in PowerShell against a **75-control framework** | **Repeatable, measurable** gains in security hygiene, compliance and risk visibility across on-prem AD |
+| ⚙️ **Audit & Compliance Automation** | Automated tenant-wide Directory Services audits with cloud-run PowerShell and **GitHub Actions**. Built reusable PowerShell tooling for Jira using its REST APIs ([Jira Automation](https://github.com/21bshwjt/Atlassian_Jira_Automation), [GitHub Actions Jira Reporting](https://github.com/21bshwjt/GHActions_JIRA)) | **Standardized compliance reporting**, with audits that run automatically instead of by hand |
 | 💰 **Cost & Entitlement Optimization** | Data-driven analysis of underused and wrongly assigned SKUs (E3/E5, EMS, add-ons) and of unused access | **~$35,000 a year** saved on licensing. **Excessive access risk reduced** |
 | 🧩 **App Credential Self-Service** | Built the [Entra Apps Management](https://github.com/21bshwjt/Entra-Apps-Management) portal with privileged-app guardrails | App owners rotate their own secrets and certificates, so **these tickets are gone**. **Fewer outages from expired credentials** |
 
@@ -79,7 +81,7 @@ The checks are built with **PowerShell and Microsoft Graph (v1.0 and beta)**. Th
 
 ## 🚀 Currently Building
 
-- 📊 Extending posture management to **Active Directory & Okta**
+- 📊 Extending posture management to **Okta**
 - 🔐 **Conditional Access & Identity Protection** frameworks for Entra ID
 - 🏛️ **Zero Trust reference architecture** for hybrid identity
 
