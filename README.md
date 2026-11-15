@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Biswajit+Biswas;Cyber+Security+Architect+%7C+Identity-First+Security;Securing+AD+%C2%B7+Entra+ID+%C2%B7+Okta+%C2%B7+Microsoft+365;Zero+Trust+%C2%B7+Privileged+Access+%C2%B7+PKI;Security+Automation+with+PowerShell+%26+Graph+API" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Biswajit+Biswas;Cyber+Security+Architect+%7C+Identity-First+Security;500%2B+SaaS+Apps+Migrated+%C2%B7+45K%2B+Users+Separated;Securing+AD+%C2%B7+Entra+ID+%C2%B7+Okta+%C2%B7+Microsoft+365;Zero+Trust+%C2%B7+Privileged+Access+%C2%B7+PKI;Security+Automation+with+PowerShell+%26+Graph+API" alt="Typing SVG" />
 
 # Biswajit Biswas
 
 ### 🛡️ Cyber Security Architect · Identity & Access Management · Security Automation
 
-**Identity is the new perimeter - I design, harden, and automate it.**
+**Identity is the new perimeter — I design, harden, and automate it.**
 With **20+ years** in enterprise identity and security, I help organizations reduce identity-driven risk across hybrid Active Directory, Microsoft Entra ID, and Okta, and turn security posture into measurable, automated controls.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bshwjt/)
@@ -24,11 +24,11 @@ With **20+ years** in enterprise identity and security, I help organizations red
 | **Role** | Cyber Security Architect — Identity & Access Management |
 | **Experience** | **20+ years** in enterprise identity, infrastructure & security |
 | **Scale** | ~600,000-user Microsoft 365 tenant · Hybrid identity |
-| **Signature Delivery** | Divestiture tenant separation: **500+ SaaS apps** (SAML/OIDC) and **45,000+ users** moved to a new Entra ID tenant ahead of the TSA deadline, with zero business disruption |
-| **Core Domains** | IAM · On-Prem Active Directory · Hybrid Identity · SSO Federation (SAML / OIDC) · Tenant-to-Tenant Migration (M&A / Divestiture) · PAM / Entra PIM · IGA · Guest (B2B) & Workload Identity Security · Microsoft PKI · CyberArk Cloud PKI · Microsoft Graph APIs · Microsoft 365 Security |
-| **Platforms** | Active Directory · Microsoft Entra ID · Microsoft PKI (AD CS) · Cloud PKI · Okta · Azure · Microsoft 365 |
+| **Signature Deliveries** | 🔀 **Divestiture tenant separation:** **500+ SaaS apps** (SAML/OIDC) and **45,000+ users** moved to a new Entra ID tenant ahead of the TSA deadline, with zero business disruption<br/>💰 **Cost & entitlement optimization:** about **$35,000 a year** cut from Microsoft 365 licensing by finding underused and wrongly assigned SKUs and removing unused access |
+| **Core Domains** | IAM · On-Prem Active Directory · Hybrid Identity · SSO Federation (SAML / OIDC) · Tenant-to-Tenant Migration (M&A / Divestiture) · PAM / Entra PIM · IGA · Guest (B2B) & Workload Identity Security · PKI & Certificate Lifecycle · Microsoft 365 Security · License & Entitlement Optimization |
+| **Platforms** | Active Directory · Microsoft Entra ID · Microsoft PKI (AD CS) · CyberArk Cloud PKI · Okta · Azure · Microsoft 365 |
 | **Frameworks** | Zero Trust · Microsoft Enterprise Access Model (Tiering) · CIS Benchmarks |
-| **Automation** | PowerShell · Microsoft Graph API · Azure Automation · Key Vault · GitHub Actions · Azure DevOps · Atlassian Jira |
+| **Automation & DevOps** | PowerShell · Microsoft Graph API · Azure Automation · Key Vault · GitHub Actions · Azure DevOps · Atlassian Jira |
 | **Logging** | Azure Log Analytics |
 
 ---
@@ -56,7 +56,9 @@ Turn manual checks into automated, repeatable reporting with PowerShell and Grap
 
 - 🔀 Led the **divestiture identity migration of 500+ SaaS applications (SAML / OIDC)** to a new Microsoft Entra ID tenant. SSO kept working throughout, with **zero business disruption**. I designed the wave-based migration framework and automated app onboarding with **Graph API & PowerShell**, separating **45,000+ users** ahead of the TSA deadline
 - 🌐 Securing identity at enterprise scale — a **~600,000-user Microsoft 365 tenant** with hybrid Active Directory
+- 💰 Led **Microsoft 365 & Active Directory licensing and entitlement optimization** across enterprise tenants. Automated, data-driven analysis found underused and wrongly assigned SKUs (E3/E5, EMS, add-ons) and unused access. Targeted fixes cut annual licensing spend by **~$35,000** and reduced excessive access risk
 - 🧹 Reducing standing privileged access through **Entra PIM, JIT / JEA and tiered administration**
+- 🔑 Running **Entra PIM audits**. These cover permanent vs. eligible role assignments, activation settings, approval and MFA requirements, and Global Admin sprawl, so standing access can be turned into just-in-time access
 - 👥 Auditing **guest users (B2B)** — stale accounts, excessive access & external collaboration risk
 - 🤖 Auditing **workload identities** — service principals, app registrations, managed identities, credentials & API permissions
 - 🧩 Moving **app credential lifecycle to self-service** with the [Entra Apps Management](https://github.com/21bshwjt/Entra-Apps-Management) portal. Owners rotate secrets, certificates and federated credentials themselves, so these requests no longer arrive as tickets. Credentials expire less often without anyone noticing. Over-privileged apps get guardrails
@@ -126,6 +128,7 @@ Turn manual checks into automated, repeatable reporting with PowerShell and Grap
 ![Microsoft Graph API](https://img.shields.io/badge/Microsoft_Graph_API-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Azure Automation](https://img.shields.io/badge/Azure_Automation-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure Key Vault](https://img.shields.io/badge/Azure_Key_Vault-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Log Analytics](https://img.shields.io/badge/Azure_Log_Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **Automation & Tooling**<br/>
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
@@ -133,6 +136,9 @@ Turn manual checks into automated, repeatable reporting with PowerShell and Grap
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
