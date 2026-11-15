@@ -24,7 +24,8 @@ With **20+ years** in enterprise identity and security, I help organizations red
 | **Role** | Cyber Security Architect — Identity & Access Management |
 | **Experience** | **20+ years** in enterprise identity, infrastructure & security |
 | **Scale** | ~600,000-user Microsoft 365 tenant · Hybrid identity |
-| **Core Domains** | IAM · On-Prem Active Directory · Hybrid Identity · PAM / Entra PIM · IGA · Guest (B2B) & Workload Identity Security · Microsoft PKI · CyberArk Cloud PKI · Microsoft Graph APIs · Microsoft 365 Security |
+| **Signature Delivery** | Divestiture tenant separation: **500+ SaaS apps** (SAML/OIDC) and **45,000+ users** moved to a new Entra ID tenant ahead of the TSA deadline, with zero business disruption |
+| **Core Domains** | IAM · On-Prem Active Directory · Hybrid Identity · SSO Federation (SAML / OIDC) · Tenant-to-Tenant Migration (M&A / Divestiture) · PAM / Entra PIM · IGA · Guest (B2B) & Workload Identity Security · Microsoft PKI · CyberArk Cloud PKI · Microsoft Graph APIs · Microsoft 365 Security |
 | **Platforms** | Active Directory · Microsoft Entra ID · Okta · Azure · Microsoft 365 |
 | **Frameworks** | Zero Trust · Microsoft Enterprise Access Model (Tiering) · CIS Benchmarks |
 | **Automation** | PowerShell · Microsoft Graph API · Azure Automation · Key Vault |
@@ -35,6 +36,9 @@ With **20+ years** in enterprise identity and security, I help organizations red
 
 **🏛️ Identity Security Architecture**
 Design Zero Trust identity architectures — tiered administration, Conditional Access frameworks, and least-privilege models that scale across hybrid environments.
+
+**🔀 Identity Migration & Tenant Separation**
+Lead large-scale identity programs for M&A and divestitures. I design wave-based migration frameworks and move SAML/OIDC SSO apps and users between Entra ID tenants, keeping the business running and meeting the TSA deadline.
 
 **🔑 Privileged Access & Governance**
 Reduce standing privilege with Entra PIM, JIT / JEA, and access reviews; bring guest users and workload identities (service principals, managed identities) under governance.
@@ -49,6 +53,7 @@ Turn manual checks into automated, repeatable reporting with PowerShell and Grap
 
 ## 📈 Impact Highlights
 
+- 🔀 Led the **divestiture identity migration of 500+ SaaS applications (SAML / OIDC)** to a new Microsoft Entra ID tenant. SSO kept working throughout, with **zero business disruption**. I designed the wave-based migration framework and automated app onboarding with **Graph API & PowerShell**, separating **45,000+ users** ahead of the TSA deadline
 - 🌐 Securing identity at enterprise scale — a **~600,000-user Microsoft 365 tenant** with hybrid Active Directory
 - 🧹 Reducing standing privileged access through **Entra PIM, JIT / JEA and tiered administration**
 - 👥 Auditing **guest users (B2B)** — stale accounts, excessive access & external collaboration risk
@@ -108,6 +113,7 @@ Turn manual checks into automated, repeatable reporting with PowerShell and Grap
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
+![SAML / OIDC](https://img.shields.io/badge/SAML_%2F_OIDC_SSO-F59E0B?style=for-the-badge&logo=openid&logoColor=white)
 ![PAM](https://img.shields.io/badge/Privileged_Access_Management-DC2626?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Identity Governance](https://img.shields.io/badge/Identity_Governance-059669?style=for-the-badge&logo=microsoft&logoColor=white)
 ![PKI](https://img.shields.io/badge/PKI_Certificate_Services-6D28D9?style=for-the-badge&logo=letsencrypt&logoColor=white)
