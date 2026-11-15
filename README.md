@@ -26,9 +26,10 @@ With **20+ years** in enterprise identity and security, I help organizations red
 | **Scale** | ~600,000-user Microsoft 365 tenant · Hybrid identity |
 | **Signature Delivery** | Divestiture tenant separation: **500+ SaaS apps** (SAML/OIDC) and **45,000+ users** moved to a new Entra ID tenant ahead of the TSA deadline, with zero business disruption |
 | **Core Domains** | IAM · On-Prem Active Directory · Hybrid Identity · SSO Federation (SAML / OIDC) · Tenant-to-Tenant Migration (M&A / Divestiture) · PAM / Entra PIM · IGA · Guest (B2B) & Workload Identity Security · Microsoft PKI · CyberArk Cloud PKI · Microsoft Graph APIs · Microsoft 365 Security |
-| **Platforms** | Active Directory · Microsoft Entra ID · Okta · Azure · Microsoft 365 |
+| **Platforms** | Active Directory · Microsoft Entra ID · Microsoft PKI (AD CS) · Cloud PKI · Okta · Azure · Microsoft 365 |
 | **Frameworks** | Zero Trust · Microsoft Enterprise Access Model (Tiering) · CIS Benchmarks |
-| **Automation** | PowerShell · Microsoft Graph API · Azure Automation · Key Vault |
+| **Automation** | PowerShell · Microsoft Graph API · Azure Automation · Key Vault · GitHub Actions · Azure DevOps · Atlassian Jira |
+| **Logging** | Azure Log Analytics |
 
 ---
 
