@@ -24,7 +24,7 @@ With **20+ years** in enterprise identity and security, I help organizations red
 | **Role** | Cyber Security Architect — Identity & Access Management |
 | **Experience** | **20+ years** in enterprise identity, infrastructure & security |
 | **Scale** | ~600,000-user Microsoft 365 tenant · Hybrid identity |
-| **Signature Deliveries** | 🔀 **Divestiture tenant separation:** **500+ SaaS apps** (SAML/OIDC) and **45,000+ users** moved to a new Entra ID tenant ahead of the TSA deadline, with zero business disruption<br/>💰 **Cost & entitlement optimization:** about **$35,000 a year** cut from Microsoft 365 licensing by finding underused and wrongly assigned SKUs and removing unused access |
+| **Signature Deliveries** | 🔀 **Divestiture tenant separation:** **500+ SaaS apps** (SAML/OIDC) and **45,000+ users** moved to a new Entra ID tenant ahead of the TSA deadline, with zero business disruption<br/>💰 **Cost & entitlement optimization:** about **$35,000 a year** cut from Microsoft 365 licensing by finding underused and wrongly assigned SKUs and removing unused access<br/>📊 **M365 Identity Posture Management:** **400+ automated security checks** across Entra ID, Defender, Intune, Purview and Global Secure Access, mapped to CIS controls |
 | **Core Domains** | IAM · On-Prem Active Directory · Hybrid Identity · SSO Federation (SAML / OIDC) · Tenant-to-Tenant Migration (M&A / Divestiture) · PAM / Entra PIM · IGA · Guest (B2B) & Workload Identity Security · PKI & Certificate Lifecycle · Microsoft 365 Security · License & Entitlement Optimization |
 | **Platforms** | Active Directory · Microsoft Entra ID · Microsoft PKI (AD CS) · CyberArk Cloud PKI · Okta · Azure · Microsoft 365 |
 | **Frameworks** | Zero Trust · Microsoft Enterprise Access Model (Tiering) · CIS Benchmarks |
@@ -63,7 +63,32 @@ Turn manual checks into automated, repeatable reporting with PowerShell and Grap
 - 🤖 Auditing **workload identities** — service principals, app registrations, managed identities, credentials & API permissions
 - 🧩 Moving **app credential lifecycle to self-service** with the [Entra Apps Management](https://github.com/21bshwjt/Entra-Apps-Management) portal. Owners rotate secrets, certificates and federated credentials themselves, so these requests no longer arrive as tickets. Credentials expire less often without anyone noticing. Over-privileged apps get guardrails
 - 🚫 Detecting and retiring **legacy authentication & weak ciphers** across domain controllers
-- ⏱️ Replacing manual security checks with **automated posture reporting** via PowerShell & Graph API
+- 📊 Built a **Microsoft 365 Identity Posture Management** platform: **400+ automated security checks** that replace manual reviews and give leadership continuous, evidence-based visibility into identity risk ([details below](#-microsoft-365-identity-posture-management))
+
+---
+
+## 📊 Microsoft 365 Identity Posture Management
+
+> **400+ automated security checks** across Entra ID, Defender, Intune, Purview and Global Secure Access, built with **PowerShell and Microsoft Graph (v1.0 and beta)**.
+> They turn a tenant's sprawling configuration into a repeatable, auditable view of identity risk, so drift, misconfigurations and over-privilege are found early instead of after an incident.
+
+| Pillar | What It Continuously Assesses |
+|---|---|
+| 🏆 **Secure Score & Benchmarks** | Secure Score trend (last 90 days), control profiles mapped to **CIS controls**, Defender recommendations, Defender for Identity health and sensors |
+| 🔐 **Authentication & MFA** | Phishing-resistant and passwordless authentication strengths, system-preferred MFA, authentication methods policy, Authenticator fatigue, banned passwords, Security Defaults, token lifetimes |
+| 🚦 **Conditional Access** | Policy deep-dive, built-in templates, named locations, protected actions, authentication contexts |
+| 🧱 **Tenant Hardening** | Stops non-admin users from creating apps, tenants or security groups and from reading other users; restricts guest invites and user consent for risky apps; checks admin consent workflow, authorization policy and SPF records |
+| 👑 **Privileged Access** | **Entra PIM audit** for users, groups and service principals; **Global Administrator audit** (users, groups and SPNs with a full summary); role-definition mapping |
+| 🤖 **Workload Identities** | App registration owners and secret/certificate expiry, SPN permissions, roles, sign-ins and locations, inactive SPNs, Graph permissions catalog, app consent audit, app management policy |
+| 👥 **Guests & B2B** | Guest roles and group memberships, dynamic guest groups, multi-tenant organizations and B2B partners |
+| 🧬 **Identity Governance (IGA)** | Access packages, access reviews, custom extensions, lifecycle workflows and task definitions |
+| 🚨 **Incident Response (CFIR)** | Defender alerts and incidents, legacy-client sign-ins, repeated failed sign-ins, OAuth consent grants, Identity Protection |
+| 💻 **Devices & Intune** | Device registration and configuration, Intune compliance policies, automatic enrollment |
+| 🌐 **Global Secure Access** | Enterprise apps, devices, Private Access users, service status, traffic logs |
+| 🔄 **Hybrid Identity** | On-premises sync status, Entra Connect extension attributes, custom and verified domains |
+| 💰 **Licensing & Data** | License matrix and insights, admin and user licenses, tenant quota, Purview sensitivity labels, SharePoint Online and Microsoft Forms settings |
+
+**Impact:** Tenant reviews that used to be slow and manual now run **on demand**. Findings are evidence-based and mapped to **CIS**. Results feed directly into Conditional Access hardening, PIM cleanup, workload-identity remediation and license optimization.
 
 ---
 
@@ -101,7 +126,7 @@ Turn manual checks into automated, repeatable reporting with PowerShell and Grap
 
 ## 🚀 Currently Building
 
-- 📊 **Identity Posture Management Dashboards** — Microsoft 365, Active Directory & Okta
+- 📊 **Identity Posture Management Dashboards**: extending the Microsoft 365 posture platform to Active Directory & Okta
 - 🔐 **Conditional Access & Identity Protection** frameworks for Entra ID
 - 🏛️ **Zero Trust reference architecture** for hybrid identity
 - 🧰 **PowerShell reporting framework** for continuous security assessments
