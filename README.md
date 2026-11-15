@@ -7,7 +7,7 @@
 ### 🛡️ Cyber Security Architect · Identity & Access Management · Security Automation
 
 **Identity is the new perimeter — I design, harden, and automate it.**
-**20+ years** securing identity for global enterprises in **retail, banking, financial services and healthcare**, where a single compromised identity can halt operations, expose customer data or fail an audit.
+**20+ years** securing identity for global enterprises in **retail, banking, financial services, healthcare and industrial distribution**, where a single compromised identity can halt operations, expose customer data or fail an audit.
 I harden hybrid Active Directory, Microsoft Entra ID and Okta, and turn security posture into **measurable, automated controls**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bshwjt/)
@@ -23,7 +23,7 @@ I harden hybrid Active Directory, Microsoft Entra ID and Okta, and turn security
 | | |
 |---|---|
 | **Scale** | ~600,000-user Microsoft 365 tenant · Hybrid identity |
-| **Industries** | Global clients in 🛒 Retail · 🏦 Banking · 💹 Financial Services · 🏥 Healthcare |
+| **Industries** | Global clients in 🛒 Retail · 🏦 Banking · 💹 Financial Services · 🏥 Healthcare · 🏭 Industrial Distribution |
 | **Core Domains** | IAM · Hybrid Identity · SSO Federation (SAML / OIDC) · Tenant-to-Tenant Migration (M&A / Divestiture) · PAM / Entra PIM · IGA · Guest (B2B) & Workload Identity Security · PKI & Certificate Lifecycle · License & Entitlement Optimization |
 | **Platforms** | Active Directory · Microsoft Entra ID · Microsoft PKI (AD CS) · CyberArk Cloud PKI · Okta · Azure · Microsoft 365 |
 | **Frameworks** | Zero Trust · Microsoft Enterprise Access Model (Tiering) · CIS Benchmarks |
